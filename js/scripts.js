@@ -5,7 +5,7 @@ $(document).ready(function() {
 });
 
 $('#back2').click(function(){
-    alert("データーは保存しました"); 
+    alert("データーを保存しました"); 
     window.location.href='../index.html'; 
 });
 
